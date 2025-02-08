@@ -39,7 +39,7 @@ Follow these steps to run the application locally:
 
 ## 🌐 Live Demo
 
-You can check the live demo [here](https://your-deployment-link.com).
+You can check the live demo [here](https://tic-tac-toe-delta-ochre.vercel.app).
 
 ## 🛠️ Tech Stack
 
@@ -59,13 +59,6 @@ You can check the live demo [here](https://your-deployment-link.com).
 3. Click **Deploy**.
 4. Once deployed, you'll get a live link you can share.
 
-### Deploying with Netlify:
-
-1. Visit [Netlify](https://www.netlify.com/) and log in with your GitHub account.
-2. Click **New site from Git**, and select your repository `tic-tac-toe`.
-3. Set the **build command** to `npm run build` and **publish directory** to `dist`.
-4. Click **Deploy site**.
-
 ## 📄 Folder Structure
 
 ```
@@ -75,6 +68,8 @@ You can check the live demo [here](https://your-deployment-link.com).
 │   │   ├── app/
 │   │   │   ├── Board.tsx
 │   │   │   ├── ScoreBoard.tsx
+|   |   ├── ui/
+|   |   |   ├── ComponentUI
 │   ├── utils/
 │   │   ├── gameLogic.ts
 │   ├── types.ts
@@ -113,6 +108,6 @@ This project is licensed under the MIT License.
 
 Feel free to reach out if you have any questions or suggestions!
 
-🌍 [GitHub Repository](https://github.com/your-username/tic-tac-toe)
+🌍 [GitHub Repository](https://github.com/dipstickit/tic-tac-toe)
 
-🌐 [Live Demo](https://your-deployment-link.com)
+🌐 [Live Demo](https://tic-tac-toe-delta-ochre.vercel.app/)
